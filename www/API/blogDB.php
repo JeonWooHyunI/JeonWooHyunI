@@ -12,7 +12,7 @@ $servername = $_ENV['DB_HOST'];
 $port = $_ENV['DB_PORT'];
 $username = $_ENV['DB_USERNAME'];
 $password = $_ENV['DB_PASSWORD'];
-$dbname = $_ENV['DB_DATABASE'];
+$dbname = $_ENV['BLOG_DB_DATABASE'];
 
 $conn = new mysqli($servername, $username, $password, $dbname, $port);
 

@@ -1,3 +1,6 @@
+<?php
+    include './API/db.php';
+?>
 <!doctype html>
 <html>
 <head>
@@ -39,6 +42,8 @@
         </div>
     </div>
     <common-footer></common-footer>
+    <login-modal></login-modal>
+    <register-modal></register-modal>
     <script defer type="module" src="./ui-initilizer.js"></script>
 </body>
 </html>

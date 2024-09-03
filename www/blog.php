@@ -1,3 +1,6 @@
+<?php
+    include './API/blogDB.php';
+?>
 <!doctype html>
 <html>
 <head>
@@ -10,7 +13,6 @@
 <body>
     <common-header></common-header>
     <div id="main-container">
-
     </div>
     <common-footer></common-footer>
     <script defer type="module" src="./ui-initilizer.js"></script>

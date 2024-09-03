@@ -6,9 +6,9 @@ export class Header extends HTMLElement {
             <header>
                 <h2>JeonWooHyun<font color="red">I</font></h2>
                 <nav class="nav-menu">
-                    <a href="./index.html">Home</a>
-                    <a href="./services.html">Services</a>
-                    <a href="./contact.html">Contact</a>
+                    <a href="./index.php">Home</a>
+                    <a href="./services.php">Services</a>
+                    <a href="./blog.php">Contact</a>
                     <button class="login-btn" >Login</button>
                     <button class="register-btn">Register</button>
                     <!--<button class="mypage-btn">Login</button>-->
