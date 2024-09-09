@@ -1,4 +1,4 @@
-##JeonWooHyunI
+[JeonWooHyun]
 
 Dizziness Hash 알고리즘이 사용되는 날까지를 기다리며..
 
